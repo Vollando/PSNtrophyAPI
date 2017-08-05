@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Vollando/PSNtrophyAPI/issues"
   },
-  "homepage": "https://github.com/Vollando/PSNtrophyAPI#readme"
+  "homepage": "https://github.com/Vollando/PSNtrophyAPI#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
 }
