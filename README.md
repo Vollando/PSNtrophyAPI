@@ -36,6 +36,3 @@ A CLI is also available for quickly searching users data to use in your shell.
 npm run cli {{username}} -- --format json
 ```
 
-# License
-
-MIT
